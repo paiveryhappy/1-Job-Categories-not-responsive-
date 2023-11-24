@@ -1,5 +1,5 @@
 # 1-Job-Categories-not-responsive-
-My first index page that my Bootcamp Program "TechUp Thailand" give me the design.(It's so fun) ><
+I am pround to present my first index page which my teacher at Bootcamp Program "TechUp Thailand" give me the design.(It's so fun) ><
 
 Click Here >>>  https://app.netlify.com/sites/cheery-beignet-049b0c/overview
 
